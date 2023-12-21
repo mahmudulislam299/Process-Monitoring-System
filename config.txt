@@ -1,0 +1,4 @@
+notepad.exe
+SnippingTool.exe
+mspaint.exe
+putty.exe

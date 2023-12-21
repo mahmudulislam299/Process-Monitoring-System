@@ -1,0 +1,42 @@
+[2023-12-22 03:44:36] Program Started
+[2023-12-22 03:44:36] >>>--------------------
+[2023-12-22 03:44:36] Target Process Names List:
+[2023-12-22 03:44:36] notepad.exe
+[2023-12-22 03:44:36] SnippingTool.exe
+[2023-12-22 03:44:36] mspaint.exe
+[2023-12-22 03:44:36] putty.exe
+[2023-12-22 03:44:36] --------------------<<<
+[2023-12-22 03:44:36] Config file has been modified. Updating target processes.
+[2023-12-22 03:44:36] >>>--------------------
+[2023-12-22 03:44:36] Target Process Names List:
+[2023-12-22 03:44:36] notepad.exe
+[2023-12-22 03:44:36] SnippingTool.exe
+[2023-12-22 03:44:36] mspaint.exe
+[2023-12-22 03:44:36] putty.exe
+[2023-12-22 03:44:36] --------------------<<<
+[2023-12-22 03:49:19] Started new process: putty.exe
+[2023-12-22 03:49:25] Started new process: SnippingTool.exe
+[2023-12-22 03:49:56] Config file has been modified. Updating target processes.
+[2023-12-22 03:49:56] >>>--------------------
+[2023-12-22 03:49:56] Target Process Names List:
+[2023-12-22 03:49:56] SnippingTool.exe
+[2023-12-22 03:49:56] mspaint.exe
+[2023-12-22 03:49:56] putty.exe
+[2023-12-22 03:49:56] --------------------<<<
+[2023-12-22 03:50:03] Config file has been modified. Updating target processes.
+[2023-12-22 03:50:03] >>>--------------------
+[2023-12-22 03:50:03] Target Process Names List:
+[2023-12-22 03:50:03] SnippingTool.exe
+[2023-12-22 03:50:03] mspaint.exe
+[2023-12-22 03:50:03] putty.exe
+[2023-12-22 03:50:03] --------------------<<<
+[2023-12-22 03:50:05] Config file has been modified. Updating target processes.
+[2023-12-22 03:50:05] >>>--------------------
+[2023-12-22 03:50:05] Target Process Names List:
+[2023-12-22 03:50:05] notepad.exe
+[2023-12-22 03:50:05] SnippingTool.exe
+[2023-12-22 03:50:05] mspaint.exe
+[2023-12-22 03:50:05] putty.exe
+[2023-12-22 03:50:05] --------------------<<<
+[2023-12-22 03:50:06] Started new process: notepad.exe
+[2023-12-22 03:50:11] Started new process: notepad.exe
